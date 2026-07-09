@@ -168,6 +168,6 @@ Please cite this work if you use or build upon it.
 
 ## Author
 
-**[Your name]**  
+Ricardo Manrique Arosemena
 TECNUN — Universidad de Navarra  
-[your.email@alumni.unav.es]
+[rmanriquear@alumni.unav.es]
